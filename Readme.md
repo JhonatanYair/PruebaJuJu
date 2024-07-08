@@ -29,3 +29,4 @@ La colección de Postman para consumir estos endpoints se encuentra en la carpet
 
 1. Abra Postman.
 2. Importe la colección desde `Postman/PruebaJuju.postman_collection.json`.
+
